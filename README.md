@@ -1,6 +1,6 @@
 DNMP（Docker + Nginx/Openresty + MySQL5,8 + PHP5,7,8 + Redis + ElasticSearch + MongoDB + RabbitMQ）是一款全功能的**LNMP一键安装程序，支持Arm CPU**。
 
-> 找远程工作，推荐[远程岛](https://yuanchengdao.com/）。
+> 找远程工作，推荐[远程岛](https://yuanchengdao.com/)。
 
 
 <details>
